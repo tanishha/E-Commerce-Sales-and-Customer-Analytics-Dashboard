@@ -1,0 +1,11 @@
+Query Name,Runs,Mean (sec),Standard Deviation (sec)
+Optimized Total Revenue by Customer,25,1.773,0.1064
+Optimized Co-Purchased Product Pairs,25,0.7347,0.0235
+Optimized Customers by Days Since Last Order,25,1.0389,0.0669
+Optimized Rank Sellers by Revenue and Sales within Product Categories and Regions,25,0.6552,0.057
+Optimized Average Order Value by Payment Method and Installments,25,0.0588,0.0118
+Optimized Annual Breakdown of Orders, Revenue, Customers, Products, and Sellers",25,0.5739,0.0686
+Optimized Top Seller and Customer Cities by Order Volume,25,0.6909,0.1026
+Optimized Compare Seller Revenue Against Average Revenue in the Same City,25,0.2081,0.0307
+Optimized Average, Max, and Min Delivery Time per Individual Product",25,1.1131,0.0936
+Optimized Customer Segmentation Based on Order Count, Spending, and Recency",25,1.1934,0.0528

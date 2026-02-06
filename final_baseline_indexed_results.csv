@@ -1,0 +1,11 @@
+Query Name,Runs,Mean (sec),Standard Deviation (sec)
+Total Revenue by Customer,25,1.485,0.1559
+Co-Purchased Product Pairs,25,0.5455,0.1243
+Customers by Days Since Last Order,25,1.1884,0.0379
+Rank Sellers by Revenue and Sales within Product Categories and Regions,25,0.5121,0.0355
+Average Order Value by Payment Method and Installments,25,0.0417,0.0144
+Annual Breakdown of Orders, Revenue, Customers, Products, and Sellers",25,0.7031,0.0281
+Top Customer and Seller Cities by Order Volume,25,1.4066,0.1043
+Compare Seller Revenue Against City Average in the Same City,25,18.673,0.8071
+Average, Max, and Min Delivery Time per Individual Product",25,1.2115,0.1085
+Customer Segmentation Based on Order Count, Spending, and Recency",25,1.2549,0.0819

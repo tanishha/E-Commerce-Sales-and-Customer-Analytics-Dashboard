@@ -1,0 +1,11 @@
+Query Name,Mean Speedup (sec),95% CI Lower (sec),95% CI Upper (sec),t-statistic,p-value
+Total Revenue by Customer,0.9344,0.8752,0.9936,31.7211,0.0
+Co-Purchased Product Pairs,0.5139,0.4728,0.555,25.1284,0.0
+Customers by Days Since Last Order,0.0713,0.0183,0.1243,2.7069,0.0094
+Rank Sellers by Revenue and Sales within Product Categories and Regions,0.0754,-0.0077,0.1585,1.8254,0.0742
+Average Order Value by Payment Method and Installments,0.0234,0.0052,0.0416,2.5853,0.0128
+Annual Breakdown of Orders, Revenue, Customers, Products, and Sellers",0.1967,0.1641,0.2293,12.1295,0.0
+Top Customer and Seller Cities by Order Volume,1.2182,1.1446,1.2918,33.2824,0.0
+Compare Seller Revenue Against City Average in the Same City,83.0405,77.2591,88.8219,28.8798,0.0
+Average, Max, and Min Delivery Time per Individual Product",1.2468,1.1932,1.3004,46.772,0.0
+Customer Segmentation Based on Order Count, Spending, and Recency",1.4474,1.4166,1.4782,94.397,0.0
